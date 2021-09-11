@@ -8,4 +8,4 @@
 bug-hou/bug-hou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-一个想做前端的工程师的小IT学生
+一个想做全栈的IT工程师
