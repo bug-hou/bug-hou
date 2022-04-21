@@ -4,25 +4,18 @@
 
 # WEB前端
 
-::: left
-
 侯向毅/男/2001-10
 
 计算机/软件工程
 
 四川大学锦江学院/2023年毕业
 
-:::
 
-::: right
+github:https://github.com/bug-hou
 
-[icon:github ](https://github.com/hua1995116)<https://github.com/bug-hou>
+邮箱:2510596084\@qq.com
 
-[icon:email ](mailto:qiufenghyf@163.com)2510596084\@qq.com
-
-icon:phone 18783477145
-
-:::
+电话:18783477145
 
 ## 介绍
 
