@@ -2,6 +2,34 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bug-hou&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
 </p>
 
+# WEB前端
+
+::: left
+
+侯向毅/男/2001-10
+
+计算机/软件工程
+
+四川大学锦江学院/2023年毕业
+
+:::
+
+::: right
+
+[icon:github ](https://github.com/hua1995116)<https://github.com/bug-hou>
+
+[icon:email ](mailto:qiufenghyf@163.com)2510596084\@qq.com
+
+icon:phone 18783477145
+
+:::
+
+## 介绍
+
+于2019年开始接触前端，喜欢编码，有Geek精神，对代码有洁癖，喜欢接触前沿技术，爱折腾。
+
+基于xhr和promise实现的一个类似于axios的网络请求库，目前只对xhr做了集成，后续会支持微信小程序
+
 阅读vue3部分源码写了一个simple-vue去除了edge case，对核心代码进行实现
 
 基于date封装一个日期转化和日期时间对比的库
@@ -67,4 +95,5 @@
 *   网络请求过多
 
 *   解决办法：懒加载，数据分页展示，简单实现了防抖和节流
+
 
