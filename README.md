@@ -36,7 +36,7 @@ github:https://github.com/bug-hou
 *   掌握：vue2/3 框架，以及常用插件vuex，pinia，vue-router，scroll-batter，element-plus，echarts，axios，lodash，dayjs，vant-ui等
 
 *   掌握：计算机网络和基本的数据结构
-
+*   
 *   了解：nodejs(express,koa)具有一定的服务器开发能力
 
 *   了解：webpack|rollup|vite 打包工具使用和配置，以及常用 loader 和 plugin 使用
