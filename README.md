@@ -21,14 +21,13 @@ github:https://github.com/bug-hou
 
 于2019年开始接触前端，喜欢编码，有Geek精神，对代码有洁癖，喜欢接触前沿技术，爱折腾。
 
-基于xhr和promise实现的一个类似于axios的网络请求库，目前只对xhr做了集成，后续会支持微信小程序
-
-阅读vue3部分源码写了一个simple-vue去除了edge case，对核心代码进行实现
-
-基于date封装一个日期转化和日期时间对比的库
+[阅读vue3部分源码写了一个simple-vue去除了edge case，对核心代码进行实现](https://github.com/bug-hou/simple-vue)
 
 [基于vue3的一个组件库](https://github.com/bug-hou/monkey-ui)
 
+[基于xhr和promise实现的一个类似于axios的网络请求库，目前只对xhr做了集成，后续会支持微信小程序](https://github.com/bug-hou/nets)
+
+[基于date封装一个日期转化和日期时间对比的库](https://github.com/bug-hou/moodJs)
 
 ## 技能
 
@@ -66,7 +65,7 @@ github:https://github.com/bug-hou
 
 *   对一些耦合度高组件进行抽取，实现多复用
 
-### &nbsp;后台管理系统
+### &nbsp;[后台管理系统](https://github.com/bug-hou/vue3admin)
 
 `Vue3.0` `echarts` `element-plus` `type-script`&nbsp;
 
