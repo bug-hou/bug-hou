@@ -1,4 +1,4 @@
--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bug-hou&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
 </p>
 
