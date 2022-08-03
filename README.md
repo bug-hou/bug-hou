@@ -31,9 +31,7 @@ github:https://github.com/bug-hou
 
 ## 技能
 
-*   掌握：JavaScript/TS 和 ES6 以上的语法和 api 使用，了解原型链，闭包，作用域，this 指向，
-
-    promise 等
+*   掌握：JavaScript/TS 和 ES6 以上的语法和 api 使用，了解原型链，闭包，作用域，promise 等
 
 *   掌握：vue2/3 框架，以及常用插件vuex，pinia，vue-router，scroll-batter，element-plus，echarts，axios，lodash，dayjs，vant-ui等
 
