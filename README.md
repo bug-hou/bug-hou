@@ -11,14 +11,11 @@
 
 2023年毕业
 
+github:https://github.com/bug-hou
 
-github(https://github.com/bug-hou)<https://github.com/bug-hou>
+邮箱:2510596084@qq.com
 
-email(2510596084\@qq.com)2510596084\@qq.com
-
-phone:18783477145
-
-:::
+电话:18783477145
 
 ## 介绍
 
