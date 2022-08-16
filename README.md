@@ -4,7 +4,6 @@
 
 # WEB前端
 
-::: left
 
 侯向毅/男/2001-10
 
@@ -12,15 +11,12 @@
 
 2023年毕业
 
-:::
 
-::: right
+github(https://github.com/bug-hou)<https://github.com/bug-hou>
 
-[icon:github ](https://github.com/bug-hou)<https://github.com/bug-hou>
+email(2510596084\@qq.com)2510596084\@qq.com
 
-[icon:email ](2510596084\@qq.com)2510596084\@qq.com
-
-icon:phone 18783477145
+phone:18783477145
 
 :::
 
